@@ -10,3 +10,10 @@ Examples included in this repository are,
 - [CNN](https://github.com/isurusiri/pytorch-notebooks/blob/master/CNNFromScratch.ipynb) 
 - [CNN for transfer learning](https://github.com/isurusiri/pytorch-notebooks/blob/master/CNNResNet.ipynb)
 - [RNN for gender prediction](https://github.com/isurusiri/pytorch-notebooks/blob/master/RNN.ipynb)
+
+#### Requirements,
+
+- Python
+- Pip
+- Jupyter notebooks
+- Pytorch
